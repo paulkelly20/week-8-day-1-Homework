@@ -35,3 +35,8 @@
 out/
 target/
 .idea_modules/
+.gitignore
+.idea/
+Customers.iml
+pom.xml
+src/
